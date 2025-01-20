@@ -1,29 +1,35 @@
 # Awesome MDN
-> A curated list of awesome things related to MDN.
+
+> A curated list of awesome things related to MDN Web Docs.
 
 MDN is an open-source, collaborative project by Mozilla in partnership with a global community of volunteers and partners.
+This repository lists resources and projects, highlighting official and community-built tools for MDN authors, and a list of projects that incorporate data from MDN.
 
-### Contents
+**Contents:**
+
 - [Official Resources](#official-resources)
 - [Contributor tools](#contributor-tools)
-- [Projects using BCD data](#projects-using-bcd-data)
+- [Projects using BCD](#projects-using-bcd)
 - [Community](#community)
 - [License](#license)
 
-### Official Resources
-- [About MDN](https://developer.mozilla.org/en-US/about)
-- [Curriculum](https://mdn.dev/curriculum)
-- [Content Repo](https://github.com/mdn/content)
-- [Platform Repo](https://github.com/mdn/yari)
-- [BCD](https://github.com/mdn/browser-compat-data)
-- [Firefox Release Notes](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases)
-- [MDN Blog](https://developer.mozilla.org/en-US/blog)
+## Official resources
 
-### Contributor tools
-- Please don't hesitate to create a PR if you have more resources to share.
+- [About MDN](https://developer.mozilla.org/en-US/about) - MDN's mission, team, partners, and projects.
+- [Curriculum](https://mdn.dev/curriculum) - Structured learning resources and modules for web development education.
+- [Content Repo](https://github.com/mdn/content) - Source repository for MDN's (en-US) documentation and examples.
+- [Platform Repo](https://github.com/mdn/yari) - Repository for the MDN platform, tools and site infrastructure.
+- [BCD](https://github.com/mdn/browser-compat-data) - Browser compatibility data for web technologies used on MDN and other projects.
+- [Firefox release notes for developers](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases) - Changes in Firefox releases that developers can target in their projects.
+- [MDN Blog](https://developer.mozilla.org/en-US/blog) - Official blog with updates, news, and insights from the MDN team.
 
-### Projects using BCD data
-Here are some projects using the data, as an [npm module](https://www.npmjs.com/browse/depended/@mdn/browser-compat-data) or directly:
+## Contributor tools
+
+Please open a PR to have your tools featured in this list.
+
+## Projects using BCD
+
+Here are some projects using data from BCD, as an [npm module](https://www.npmjs.com/browse/depended/@mdn/browser-compat-data) or directly:
 
 - [Add-ons Linter](https://github.com/mozilla/addons-linter) - NPM package that checks add-ons for features that aren't supported by the targeted Firefox version. Used by [addons.mozilla.org](https://addons.mozilla.org/) and the [web-ext](https://github.com/mozilla/web-ext/) tool.
 - [ast-metadata-inferer](https://www.npmjs.com/package/ast-metadata-inferer) - NPM package that annotates JavaScript AST nodes with metadata derived from BCD data. Used by [eslint-plugin-compat](https://www.npmjs.com/package/eslint-plugin-compat).
@@ -44,12 +50,16 @@ Here are some projects using the data, as an [npm module](https://www.npmjs.com/
 - [web-features-explorer](https://web-platform-dx.github.io/web-features-explorer/) - Website that visualizes web features by Baseline status and month.
 - [`webhint.io`](https://webhint.io/docs/user-guide/hints/hint-compat-api/) - Tool that uses BCD to checks CSS and HTML for unsupported features (see [`@hint/utils-compat-data` package](https://github.com/webhintio/hint/tree/main/packages/utils-compat-data)).
 
-### Community
+## Community
+
+Here are some quick links to MDN community channels:
+
 - [Discord](https://mdn.dev/discord)
 - [GitHub](https://github.com/mdn)
 - [X](https://x.com/MozDevNet)
 - [Mastodon](https://mastodon.com/@MDN)
 
-### License
-MDN's resources are freely available under various open-source licenses. For detailed information on reusing MDN content, check out our Attribution and Copyright Licensing page.
+## License
 
+MDN's resources are freely available under various open-source licenses.
+For detailed information on reusing MDN content, check our [Attribution and copyright licensing](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Attrib_copyright_license) page.

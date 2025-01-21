@@ -27,6 +27,8 @@ This repository lists resources and projects, highlighting official and communit
 
 Please open a PR to have your tools featured in this list.
 
+- [skyclouds2001/mdn-tool](https://github.com/skyclouds2001/mdn-tools) - A tool focusing on maintaining [mdn/data](https://github.com/mdn/data) repo, using feature information from [content repo](https://github.com/mdn/content), [bcd](https://github.com/mdn/browser-compat-data) to keep data consistent with latest browser support.
+
 ## Projects using BCD
 
 Here are some projects using data from BCD, as an [npm module](https://www.npmjs.com/browse/depended/@mdn/browser-compat-data) or directly:

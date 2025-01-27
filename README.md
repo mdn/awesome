@@ -18,7 +18,7 @@ This repository lists resources and projects, highlighting official and communit
 - [About MDN](https://developer.mozilla.org/en-US/about) - MDN's mission, team, partners, and projects.
 - [Curriculum](https://mdn.dev/curriculum) - Structured learning resources and modules for web development education.
 - [Content Repo](https://github.com/mdn/content) - Source repository for MDN's (en-US) documentation and examples.
-- [Yari](https://github.com/mdn/yari) - MDN's React-based frontend, including tools for building the site.
+- [Yari](https://github.com/mdn/yari) - MDN's React-based frontend, including tools for managing content.
 - [BCD](https://github.com/mdn/browser-compat-data) - Browser compatibility data for web technologies used on MDN and other projects.
 - [Firefox release notes for developers](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases) - Changes in Firefox releases that developers can target in their projects.
 - [MDN Blog](https://developer.mozilla.org/en-US/blog) - Official blog with updates, news, and insights from the MDN team.

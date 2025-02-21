@@ -30,6 +30,7 @@ Please open a PR to have your tools featured in this list.
 - [skyclouds2001/mdn-tool](https://github.com/skyclouds2001/mdn-tools) - A tool focusing on maintaining [mdn/data](https://github.com/mdn/data) repo, using feature information from [content repo](https://github.com/mdn/content), [bcd](https://github.com/mdn/browser-compat-data) to keep data consistent with latest browser support.
 - [OnkarRuikar/markdownlint-rule-search-replace](https://github.com/OnkarRuikar/markdownlint-rule-search-replace) - A [markdownlint](https://github.com/DavidAnson/markdownlint) plugin built to handle [custom linting needs](https://github.com/mdn/content/blob/cebc05cfe508d5cd8c6a98359a3913cf19a707d3/.markdownlint.jsonc#L122-L235) of the MDN content.
 - [xyy94813/mdn-site](https://github.com/xyy94813/mdn-site) - Helper scripts for MDN translation tasks, such as initializing an environment, copying specific files, and adding origin commit hashes to translated files in `mdn/translated-content`.
+- [cheeslide/mdn-translation-analytics](https://github.com/cheeslide/mdn-translation-analytics) - An automated service powered by GitHub Action to help translators find jobs through analysis.
 
 ## Projects using BCD
 

@@ -31,7 +31,7 @@ Please open a PR to have your tools featured in this list.
 - [OnkarRuikar/markdownlint-rule-search-replace](https://github.com/OnkarRuikar/markdownlint-rule-search-replace) - A [markdownlint](https://github.com/DavidAnson/markdownlint) plugin built to handle [custom linting needs](https://github.com/mdn/content/blob/cebc05cfe508d5cd8c6a98359a3913cf19a707d3/.markdownlint.jsonc#L122-L235) of the MDN content.
 - [xyy94813/mdn-site](https://github.com/xyy94813/mdn-site) - Helper scripts for MDN translation tasks, such as initializing an environment, copying specific files, and adding origin commit hashes to translated files in `mdn/translated-content`.
 - [cheeslide/mdn-translation-analytics](https://github.com/cheeslide/mdn-translation-analytics) - An automated service powered by GitHub Action to help translators find jobs through analysis.
-- [PassionPenguin/mdn_l10n_helper](https://github.com/PassionPenguin/mdn_l10n_helper) - Helper site to view difference between the localized content of a certain branch of a certain repo against the latest `mdn/content` source content.
+- [PassionPenguin/mdn_l10n_helper](https://github.com/PassionPenguin/mdn_l10n_helper) - A helper site for comparing the localized content of a specific branch and repository against the latest `mdn/content` source content.
 
 ## Projects using BCD
 

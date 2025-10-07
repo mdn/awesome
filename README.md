@@ -18,7 +18,8 @@ This repository lists resources and projects, highlighting official and communit
 - [About MDN](https://developer.mozilla.org/en-US/about) - MDN's mission, team, partners, and projects.
 - [Curriculum](https://mdn.dev/curriculum) - Structured learning resources and modules for web development education.
 - [Content Repo](https://github.com/mdn/content) - Source repository for MDN's (en-US) documentation and examples.
-- [Yari](https://github.com/mdn/yari) - MDN's React-based frontend, including tools for managing content.
+- [Rari](https://github.com/mdn/rari) - MDN's build system.
+- [Fred](https://github.com/mdn/fred/) - MDN's frontend system built using web components, Lit, and server-side rendering.
 - [BCD](https://github.com/mdn/browser-compat-data) - Browser compatibility data for web technologies used on MDN and other projects.
 - [Firefox release notes for developers](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases) - Changes in Firefox releases that developers can target in their projects.
 - [MDN Blog](https://developer.mozilla.org/en-US/blog) - Official blog with updates, news, and insights from the MDN team.
@@ -32,6 +33,7 @@ Please open a PR to have your tools featured in this list.
 - [xyy94813/mdn-site](https://github.com/xyy94813/mdn-site) - Helper scripts for MDN translation tasks, such as initializing an environment, copying specific files, and adding origin commit hashes to translated files in `mdn/translated-content`.
 - [cheeslide/mdn-translation-analytics](https://github.com/cheeslide/mdn-translation-analytics) - An automated service powered by GitHub Action to help translators find jobs through analysis.
 - [PassionPenguin/mdn_l10n_helper](https://github.com/PassionPenguin/mdn_l10n_helper) - A helper site for comparing the localized content of a specific branch and repository against the latest `mdn/content` source content.
+- [openwebdocs/web-docs-backlog](https://github.com/openwebdocs/web-docs-backlog) - A website to visualize web platform reference pages on MDN.
 
 ## Projects using BCD
 

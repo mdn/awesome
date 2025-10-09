@@ -19,7 +19,7 @@ This repository lists resources and projects, highlighting official and communit
 - [Curriculum](https://mdn.dev/curriculum) - Structured learning resources and modules for web development education.
 - [Content Repo](https://github.com/mdn/content) - Source repository for MDN's (en-US) documentation and examples.
 - [Rari](https://github.com/mdn/rari) - MDN's build system.
-- [Fred](https://github.com/mdn/fred/) - MDN's frontend system built using web components, Lit, and server-side rendering.
+- [Fred](https://github.com/mdn/fred/) - MDN's frontend built using web components, Lit, and server-side rendering.
 - [BCD](https://github.com/mdn/browser-compat-data) - Browser compatibility data for web technologies used on MDN and other projects.
 - [Firefox release notes for developers](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases) - Changes in Firefox releases that developers can target in their projects.
 - [MDN Blog](https://developer.mozilla.org/en-US/blog) - Official blog with updates, news, and insights from the MDN team.

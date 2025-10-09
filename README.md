@@ -33,7 +33,7 @@ Please open a PR to have your tools featured in this list.
 - [xyy94813/mdn-site](https://github.com/xyy94813/mdn-site) - Helper scripts for MDN translation tasks, such as initializing an environment, copying specific files, and adding origin commit hashes to translated files in `mdn/translated-content`.
 - [cheeslide/mdn-translation-analytics](https://github.com/cheeslide/mdn-translation-analytics) - An automated service powered by GitHub Action to help translators find jobs through analysis.
 - [PassionPenguin/mdn_l10n_helper](https://github.com/PassionPenguin/mdn_l10n_helper) - A helper site for comparing the localized content of a specific branch and repository against the latest `mdn/content` source content.
-- [openwebdocs/web-docs-backlog](https://github.com/openwebdocs/web-docs-backlog) - A website to visualize web platform reference pages on MDN.
+- [Web platform missing reference pages](https://openwebdocs.github.io/web-docs-backlog/) - Displays documentation missing from MDN, filtered by the Baseline status or browser implementation.
 
 ## Projects using BCD
 

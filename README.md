@@ -33,7 +33,12 @@ Please open a PR to have your tools featured in this list.
 - [xyy94813/mdn-site](https://github.com/xyy94813/mdn-site) - Helper scripts for MDN translation tasks, such as initializing an environment, copying specific files, and adding origin commit hashes to translated files in `mdn/translated-content`.
 - [cheeslide/mdn-translation-analytics](https://github.com/cheeslide/mdn-translation-analytics) - An automated service powered by GitHub Action to help translators find jobs through analysis.
 - [PassionPenguin/mdn_l10n_helper](https://github.com/PassionPenguin/mdn_l10n_helper) - A helper site for comparing the localized content of a specific branch and repository against the latest `mdn/content` source content.
+- [tristantheb/history-content](https://github.com/tristantheb/history-content) ([es](https://tristantheb.github.io/history-content/?lang=es), [fr](https://tristantheb.github.io/history-content/), [ja](https://tristantheb.github.io/history-content/?lang=ja), [ko](https://tristantheb.github.io/history-content/?lang=ko), [pt-br](https://tristantheb.github.io/history-content/?lang=pt-br), [ru](https://tristantheb.github.io/history-content/?lang=ru), [zh-cn](https://tristantheb.github.io/history-content/?lang=zh-cn), [zh-tw](https://tristantheb.github.io/history-content/?lang=zh-tw)) - This is a dynamic project that displays changes to pages in translated languages, allowing contributors to easily see which pages need to be updated or translated in all languages in the [mdn/translated-content](https://github.com/mdn/translated-content) repository.
 - [Web platform missing reference pages](https://openwebdocs.github.io/web-docs-backlog/) - Displays documentation missing from MDN, filtered by the Baseline status or browser implementation.
+
+### VSCode extension for contributors
+
+- [MDN Macro Syntax](https://marketplace.visualstudio.com/items?itemName=tristantheb.mdn-macros-syntax) - This VSCode extension allows content and l10n contributors to view macro syntax, quickly write new macros, see explanations of their usage, and access several other features that make reading and translating pages easier (see [the extension documentation](https://github.com/tristantheb/mdn-macros-syntax/blob/main/README.md)).
 
 ## Projects using BCD
 
